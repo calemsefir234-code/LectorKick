@@ -1,0 +1,14 @@
+LECTOR DE KICK — APLICACIÓN PORTABLE
+
+INICIO
+1. Abre "Lector de Kick.exe" con doble clic.
+2. Escribe el nombre del canal de Kick, sin @.
+3. Pulsa Iniciar. Pulsa Detener cuando termines.
+
+La aplicación muestra los mensajes recientes y los lee en voz alta. Puedes desmarcar «Leer mensajes en voz alta» para solo verlos. Necesita conexión a internet y una voz instalada en Windows. No requiere instalar Python.
+
+La lectura usa la conexión pública en tiempo real del sitio web de Kick. Kick puede cambiar ese protocolo, así que una actualización podría ser necesaria si deja de conectar. La aplicación solo lee el chat: no inicia sesión ni publica mensajes.
+
+"Código fuente.pyw" contiene el código editable. Para usar la aplicación en otra computadora Windows, copia la carpeta completa "Lector de Kick".
+
+El lector omite automáticamente los emotes de Kick al mostrar y pronunciar los mensajes.
